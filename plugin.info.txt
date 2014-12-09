@@ -1,0 +1,7 @@
+base   authsmartcard
+author Stephen Bowman
+email  sbbowman@gmail.com
+date   2014-07-16
+name   smartcard plugin
+desc   Provides user authentication using client certificates (smartcards)
+url    https://github.com/sbbowman/dokuwiki-authsmartcard
